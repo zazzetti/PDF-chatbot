@@ -11,12 +11,7 @@ This project is a FastAPI-based chatbot that processes PDF documents, extracts t
 - 🤖 AI-powered responses using Mistral AI
 - 🐳 Dockerized for easy deployment
 
----
-Create a .env file in the root directory and add:
 
-MISTRAL_API_KEY=your_mistral_api_key
-
----
 
 ## 🐳 Docker Setup
 
